@@ -44,3 +44,7 @@ Pelajar perlu mengubahsuai code utk menambahbaik wordle solver ini.
 
 code - (![code](<Screenshot 2024-02-22 224239.png>))
 wordle - (![wordle](<Screenshot 2024-02-22 213452.png>))
+
+### Tugasan 2
+
+code - ![solution](<Screenshot 2024-02-24 233848.png>)
